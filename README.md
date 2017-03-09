@@ -12,7 +12,7 @@ Use [iosdumpkernelfix](https://github.com/cocoahuke/iosdumpkernelfix) to correct
 
 **Download**
 ```bash
-git clone https://github.com/cocoahuke/ioskextdump_32.git && cd ioskextdump
+git clone https://github.com/cocoahuke/ioskextdump_32.git && cd ioskextdump_32
 ```
 **Compile and install** to /usr/local/bin/
 
