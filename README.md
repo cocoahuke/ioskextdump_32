@@ -1,7 +1,7 @@
 # ioskextdump_32
 Dump Kext information from 32bit iOS kernel cache. Applicable to the kernel which dump from memory. The disassembly framework used is [Capstone](http://www.capstone-engine.org/)
 
-[![Contact](https://img.shields.io/badge/contact-@cocoahuke-fbb52b.svg?style=flat)](https://twitter.com/cocoahuke) [![build](https://travis-ci.org/cocoahuke/ioskextdump.svg?branch=master)](https://travis-ci.org/cocoahuke/ioskextdump) [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/cocoahuke/ioskextdump/blob/master/LICENSE) [![paypal](https://img.shields.io/badge/Donate-PayPal-039ce0.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EQDXSYW8Z23UY)
+[![Contact](https://img.shields.io/badge/contact-@cocoahuke-fbb52b.svg?style=flat)](https://twitter.com/cocoahuke) [![build](https://travis-ci.org/cocoahuke/ioskextdump_32.svg?branch=master)](https://github.com/cocoahuke/ioskextdump_32) [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/cocoahuke/ioskextdump_32/blob/master/LICENSE) [![paypal](https://img.shields.io/badge/Donate-PayPal-039ce0.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EQDXSYW8Z23UY)
 
 ##This is the arm 32bit version of [ioskextdump](https://github.com/cocoahuke/ioskextdump)
 
