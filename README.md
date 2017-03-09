@@ -62,6 +62,6 @@ Inheritance relationship:
 2 func:0x80772b79  scalar_i:0x0  struct_i:0x0  scalar_o:0x0  struct_o:0x0
 ...
 ```
-Cannot detect override methods in this program, I was added in [ioskextdump](https://github.com/cocoahuke/ioskextdump program, 32bit device get outdatedness more and more :)
+Cannot detect override methods in this program, I was added in [ioskextdump](https://github.com/cocoahuke/ioskextdump program, 32bit device get outdatedness more and more :), anyway 32bit devices are get older and outdatedness :)
 
 Any question just Email me
