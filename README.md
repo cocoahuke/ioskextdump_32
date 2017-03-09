@@ -3,6 +3,11 @@ Dump Kext information from 32bit iOS kernel cache. Applicable to the kernel whic
 
 [![Contact](https://img.shields.io/badge/contact-@cocoahuke-fbb52b.svg?style=flat)](https://twitter.com/cocoahuke) [![build](https://travis-ci.org/cocoahuke/ioskextdump_32.svg?branch=master)](https://github.com/cocoahuke/ioskextdump_32) [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/cocoahuke/ioskextdump_32/blob/master/LICENSE) [![paypal](https://img.shields.io/badge/Donate-PayPal-039ce0.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EQDXSYW8Z23UY)
 
+###64bit version of iOS:
+**64bit(aarch64):  [ioskextdump](https://github.com/cocoahuke/ioskextdump)**
+###Dump Kext info For Mac:
+**64bit(x86_64):  [mackextdump](https://github.com/cocoahuke/mackextdump)**
+
 ##This is the arm 32bit version of [ioskextdump](https://github.com/cocoahuke/ioskextdump)
 
 ###For kernel which dump from memory
